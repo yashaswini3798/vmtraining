@@ -1,0 +1,2 @@
+# vmtraining
+asignments
